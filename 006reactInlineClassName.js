@@ -10,6 +10,8 @@ import React from "react"
 import ReactDOM from "react-dom"
 
 const currentHour = (new Date()).getHours();
+// const currentHour = (new Date(2019, 1, 1, 18)).getHours();
+
 
 var greeting = "";
 var greetingStyle = {};
