@@ -6,8 +6,14 @@ import ReactDOM from "react-dom";
 
 const foodListStyle = {
   fontSize: "10px", // font-size: 10px,
-
 }
+
+const customStyle = {
+  color: "red", // vs color: red; simicolon-> colon red->"red"
+  fontSize: "20px", // ke-bab case vs camelCase
+  border: "1px solid black"
+};
+
 
 ReactDOM.render(
   <div>
