@@ -1,10 +1,11 @@
+// const React = require("react");
+// const ReactDOM = require("react-dom");
+// const name = "Rishabh";
+
 import React from "react";
 import ReactDOM from "react-dom";
 
-// const React = require("react");
-// const ReactDOM = require("react-dom");
 
-// const name = "Rishabh";
 
 ReactDOM.render(
   <div>
