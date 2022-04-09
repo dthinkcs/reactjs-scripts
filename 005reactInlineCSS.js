@@ -11,7 +11,7 @@ const foodListStyle = {
 const customStyle = {
   color: "red", // vs color: red; simicolon-> colon red->"red"
   fontSize: "20px", // ke-bab case vs camelCase
-  border: "1px solid black"
+  border: "1px solid black" // note: this should be string in JSX
 };
 
 
