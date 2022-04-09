@@ -13,7 +13,9 @@ const customStyle = {
   fontSize: "20px", // ke-bab case vs camelCase
   border: "1px solid black" // note: this should be string in JSX
 };
-
+// also can mutate object's internals
+customStyle.color = "blue";
+// DPr: do all from scratch yourself
 
 ReactDOM.render(
   <div>
