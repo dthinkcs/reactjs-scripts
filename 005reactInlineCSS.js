@@ -15,7 +15,7 @@ const customStyle = {
 };
 // also can mutate object's internals
 customStyle.color = "blue";
-// DPr: do all from scratch yourself
+// DPr: do all(targeted practice) from scratch yourself
 
 ReactDOM.render(
   <div>
