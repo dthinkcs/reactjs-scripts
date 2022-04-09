@@ -1,4 +1,6 @@
-// NOTE: single div to ReactDOM.render
+// NOTE: 
+// 1> Only Use single div(top-level div) in ReactDOM.render
+// 2>  JS inside HTML allowed in JSX (like templating software like eJS/Jinja)
 import React from "react";
 import ReactDOM from "react-dom";
 
