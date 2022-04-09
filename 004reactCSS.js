@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 // 1. camel case class in html but className in JS
+// for linting purposes in index.js use: type=text/JSX not text/javascript 
 // aside: global HTML attributes below can be used on any HTML element.
 // 2. script type='text/JSX'
 // alt key required by linter
