@@ -3,6 +3,9 @@ import Card from "./Card";
 import contacts from "../contacts";
 /*
 use key to remove WARNING for each Card (for each Component)
+but htis is hidden
+so we create another custom prop called id 
+even though its repetivive it is the only way to "accees" the key property
 */
 function createCard(contact) {
   return (
