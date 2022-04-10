@@ -2,7 +2,7 @@ import React from "react";
 import Card from "./Card";
 import contacts from "../contacts";
 /*
-use key to remove WARNING
+use key to remove WARNING for each Card (for each Component)
 */
 function createCard(contact) {
   return (
